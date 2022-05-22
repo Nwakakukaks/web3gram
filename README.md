@@ -31,33 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
@@ -67,4 +41,24 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEFEMTU3YjA3ZTI1RDY0QTYxNGYxQmVhYjg0RTBmQzFGNThlNDhiZTAiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2NTI1MjUwODA3ODksIm5hbWUiOiJGaWxlY29pbi1wcm9qZWN0In0.9LTg3LUQYQOMxDzfFZzEQZhedQO5iK5cGcLpXxqJhRA
+###  DEMO LINK
+ 
+https://web3gramm.netlify.app
+
+### PROJECT RESOURCES
+
+moralis 
+react js
+css
+framer motion
+metamask login
+
+### PROJECT DETAILS
+
+A web3 instagram style gallery app that allows users to upload images from their devices and is stored on IPFS using moralis 
+this project interacts with IPFS through moralis .
+
+### LOGIN
+
+metamask login is required!!
+
